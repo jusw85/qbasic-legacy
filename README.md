@@ -3,4 +3,4 @@ Found some of my old QB codes from the mid-late nineties that I wrote on an old 
 
 Unfortunately I lost a large number of scripts that I remember writing but I can't find anymore.
 
-Ported some of them to QB64, which you can find under releases. I also cleaned up a whole bunch of spaghetti code that I wrote back then when I didn't know any better.
+Ported some of them to QB64, which you can find under [releases](https://github.com/jusw85/qbasic-legacy/releases). I also cleaned up a whole bunch of spaghetti code that I wrote back then when I didn't know any better.
